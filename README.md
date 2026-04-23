@@ -2,7 +2,7 @@
 
 **`Desenvolvimento Back-End e Análise de Dados`**
 
-🎓 Atualmente estou no 7° semestre do curso de Sistemas de Informação no Centro Universitário Adventista de São Paulo – Campus Hortolândia. Natural de Campinas – SP, tenho 20 anos e uma grande conexão por tecnologia e inovação.
+🎓 Atualmente estou no 7° semestre do curso de Sistemas de Informação no Centro Universitário Adventista de São Paulo – Campus Hortolândia. Natural de Campinas – SP, tenho 21 anos e uma grande conexão por tecnologia e inovação.
 
 🚀 Estou realizando estágio na empresa Requestia, atuando na área de projetos. Essa experiência tem ampliado minha visão sobre metodologias ágeis, gestão de demandas, comunicação com os clientes e trabalho em grupo.
 
